@@ -5,9 +5,9 @@
 
 ## COMMANDS
 
-* !userinfo <user> ( Will give you the information of the provided username )
-* !uid <number> ( will give you the username of assigned UID )
-* !username <username> ( Will give you the UID of assigned user )
+* !userinfo [user] ( Will give you the information of the provided username )
+* !uid [number] ( will give you the username of assigned UID )
+* !username [username] ( Will give you the UID of assigned user )
 
 To receive lastest news, you will have to create a text-channel called (news)
 
